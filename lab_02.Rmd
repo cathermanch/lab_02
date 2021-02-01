@@ -1,7 +1,7 @@
 ---
 title: "Lab 02"
-author: ""
-date: ""
+author: "Christine Catherman"
+date: "Feb. 1, 2021"
 output: 
   html_document:
     toc: true
